@@ -1,2 +1,2 @@
-# F-sica-computacional-2
+# Física-computacional-2
 Proyecto --------- 
